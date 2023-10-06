@@ -1,0 +1,9 @@
+{
+  "subject": "acct:jamie.kerr@sso.sillyserver.net",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "https://sso.sillyserver.net/application/o/tailscale/"
+    }
+  ]
+}
